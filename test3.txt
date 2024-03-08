@@ -2,3 +2,8 @@ This is test3 file let's see what this will bring to me
 void display(String message){
 	System.out.println(message);
 }
+void branch2(String message){
+	System.out.println("This message perhaps gonna create merge conflicts when i will try to merge this
+particular branch2 lets see how it goes");
+
+}
