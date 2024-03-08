@@ -4,3 +4,6 @@ void display(String message){
 function show(message){
 console.log(`Here is the text which i am getting  :  ${message}`);
 }
+function branch1(mssgeFromBranch1){
+console.log("branch1 message : " + mssgeFromBranch1)
+}
