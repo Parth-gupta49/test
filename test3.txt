@@ -14,3 +14,6 @@ void branch2(String message){
 	System.out.println("This message perhaps gonna create merge conflicts when i will try to merge this
 particular branch2 lets see how it goes");
 }
+void remoteBranch(){
+	printf("This will cause conflict while pulling");
+}
