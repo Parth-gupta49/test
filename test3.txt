@@ -1,1 +1,4 @@
 This is test3 file let's see what this will bring to me
+void display(String message){
+	System.out.println(message);
+}
