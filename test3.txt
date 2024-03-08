@@ -1,9 +1,16 @@
 This is test3 file let's see what this will bring to me
 void display(String message){
 	System.out.println(message);
+
 function show(message){
 console.log(`Here is the text which i am getting  :  ${message}`);
 }
+
 function branch1(mssgeFromBranch1){
 console.log("branch1 message : " + mssgeFromBranch1)
+}
+
+void branch2(String message){
+	System.out.println("This message perhaps gonna create merge conflicts when i will try to merge this
+particular branch2 lets see how it goes");
 }
